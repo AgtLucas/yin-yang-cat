@@ -1,0 +1,28 @@
+{
+  "name": "yin-yang-cat",
+  "version": "0.0.0",
+  "authors": [
+    "Lucas da Silva <lucas@lucas.ninja>"
+  ],
+  "description": "Yin Yang Cat",
+  "main": "yin-yang-cat.html",
+  "keywords": [
+    "cat",
+    "gif",
+    "yin yang",
+    "web-components",
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AgtLucas/yin-yang-cat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.3.0 <1.0.0"
+  }
+}
