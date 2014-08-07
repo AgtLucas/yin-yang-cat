@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Yin Yang Cat</title>
+
+  <!-- Importing Web Component's Polyfill -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.3.0/platform.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/polymer/0.3.0/polymer.js"></script>
+
+  <!-- Importing Custom Elements -->
+  <link rel="import" href="yin-yang-cat.html">
+
+  <style>
+    body {
+      font-family: Helvetica;
+    }
+
+    .wrapper {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      text-align: center;
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    a {
+      color: #08c;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #09b;
+    }
+
+    yin-yang-cat {
+      margin: 5em 0;
+    }
+  </style>
+</head>
+<body>
+
+<div class="wrapper">
+  <h1>Yin Yang Cat</h1>
+  <yin-yang-cat></yin-yang-cat>
+
+  <small>Gif by Smeagol_RP (Fórum Adrenaline), WebComponent by me (<a href="http://github.com/agtlucas">AgtLucas</a>)</small>
+</div>
+
+</body>
+</html>
