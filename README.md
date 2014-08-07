@@ -6,6 +6,8 @@ Gif by Smeagol_RP @ Fórum Adrenaline | adrenaline.com.br/forum
 
 Yin Yang Cat WebComponent
 
+### Demo
+http://lucas.ninja/yin-yang-cat/
 
 ### Usage
 
