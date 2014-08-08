@@ -1,4 +1,4 @@
-##Yin Yang Cat
+#Yin Yang Cat
 
 ![Yin Yang Cat](https://raw.githubusercontent.com/AgtLucas/yin-yang-cat/master/img/yin-yang.gif)
 
