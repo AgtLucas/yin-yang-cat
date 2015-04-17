@@ -7,7 +7,7 @@ Gif by Smeagol_RP @ Fórum Adrenaline | adrenaline.com.br/forum
 Yin Yang Cat WebComponent
 
 ### Demo
-http://agtlucas.github.io/yin-yang-cat/
+https://agtlucas.github.io/yin-yang-cat/
 
 ### Usage
 
