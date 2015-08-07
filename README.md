@@ -36,6 +36,7 @@ $ bower install yin-yang-cat
 <yin-yang-cat></yin-yang-cat>
 ```
 
+---
 # License
 
-The MIT License
+[The MIT License](http://mit.lucas.ninja)
